@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {},
   "dependencies": {
-    "aws-sdk": "^2.998.0",
+    "aws-sdk": "^2.999.0",
     "axios": "^0.22.0"
   }
 }
